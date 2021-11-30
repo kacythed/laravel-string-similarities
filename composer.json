@@ -1,5 +1,5 @@
 {
-    "name": "atomescrochus/laravel-string-similarities",
+    "name": "kacythed/laravel-string-similarities",
     "type": "library",
     "description": "Compare two string and get a similarity percentage",
     "keywords": [
